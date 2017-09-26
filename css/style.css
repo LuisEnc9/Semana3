@@ -1,0 +1,39 @@
+h1 {
+   color: #2e3030;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #00f7ea;
+  text-align: center;
+  font-size: 25px;
+
+}
+
+footer{
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 10px;
+}
+header {
+  text-align: center;
+  margin-bottom: 50px;
+}
+header img {
+  width: 50%;
+  max-width: 200px;
+}
+
+body {
+  background: #2e3030;
+  margin: 0;
+  padding: 0;
+    }
+
+    .imageCenter {
+      width: 1280px;
+      margin: 0 auto;
+
+    }
+
+
